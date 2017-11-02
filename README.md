@@ -10,4 +10,4 @@
 
 
 
-- master: N/A
+- master: [![Build status](https://ci.appveyor.com/api/projects/status/pq7pqs1g6lilo8m6?svg=true)](https://ci.appveyor.com/project/SitecoreElision/elision-wffm-ufka8)
